@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/btc-rate/static/css/main.bf086888.chunk.css",
+    "main.js": "/github.io/btc-rate/static/js/main.f438fb1f.chunk.js",
+    "main.js.map": "/github.io/btc-rate/static/js/main.f438fb1f.chunk.js.map",
+    "runtime-main.js": "/github.io/btc-rate/static/js/runtime-main.52f3411e.js",
+    "runtime-main.js.map": "/github.io/btc-rate/static/js/runtime-main.52f3411e.js.map",
+    "static/js/2.c11b8d36.chunk.js": "/github.io/btc-rate/static/js/2.c11b8d36.chunk.js",
+    "static/js/2.c11b8d36.chunk.js.map": "/github.io/btc-rate/static/js/2.c11b8d36.chunk.js.map",
+    "index.html": "/github.io/btc-rate/index.html",
+    "precache-manifest.afcdd71007c730f2907574a282d955f6.js": "/github.io/btc-rate/precache-manifest.afcdd71007c730f2907574a282d955f6.js",
+    "service-worker.js": "/github.io/btc-rate/service-worker.js",
+    "static/css/main.bf086888.chunk.css.map": "/github.io/btc-rate/static/css/main.bf086888.chunk.css.map",
+    "static/js/2.c11b8d36.chunk.js.LICENSE": "/github.io/btc-rate/static/js/2.c11b8d36.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52f3411e.js",
+    "static/js/2.c11b8d36.chunk.js",
+    "static/css/main.bf086888.chunk.css",
+    "static/js/main.f438fb1f.chunk.js"
+  ]
+}
